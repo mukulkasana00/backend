@@ -3,17 +3,18 @@
   "version": "1.0.0",
   "description": "a backend by mukul kasana or hitesh youtube",
   "type": "module",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": {
     "dev": "nodemon src/index.js"
   },
   "keywords": [
-    "javascript",
+    "javascript", 
     "backend"
   ],
   "author": "mukul",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
   }
 }
